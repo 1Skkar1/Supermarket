@@ -4,9 +4,11 @@ Programming Lab - Second Project - Supermarket
 May 27th 2019
 
 ### Compile:
+
   gcc -o super main.c customer.c cashier.c queue.c heapMin.c
  
 ### Run:
+
   ./super
   
 After compiling and executing the implementation, it will ask for input for 4 variables:
