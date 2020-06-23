@@ -1,7 +1,7 @@
 # Supermarket
 Programming Lab - Second Project - Supermarket
 
-May 27th 2019
+Date: ***May 27th 2019***
 
 ### Compile:
   ```bash
